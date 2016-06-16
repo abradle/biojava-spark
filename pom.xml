@@ -24,7 +24,7 @@
 		<scala.version>2.11</scala.version>
 		<slf4j.version>1.7.20</slf4j.version>
 		<log4j.version>2.5</log4j.version>
-		<mmtf.version>0.2.0</mmtf.version>
+		<mmtf.version>0.2.1</mmtf.version>
 	</properties>
 
 	<dependencies>
@@ -105,12 +105,12 @@
 		<dependency>
 			<groupId>org.biojava</groupId>
 			<artifactId>biojava-structure</artifactId>
-			<version>5.0.0-alpha4</version>
+			<version>5.0.0-alpha5</version>
 		</dependency>
 		<dependency>
 			<groupId>org.rcsb</groupId>
 			<artifactId>mmtf-spark</artifactId>
-			<version>0.0.3</version>
+			<version>0.0.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.rcsb</groupId>
