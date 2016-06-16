@@ -27,6 +27,13 @@
 		<mmtf.version>0.2.1</mmtf.version>
 	</properties>
 
+        <scm>
+                <connection>scm:git:git://github.com:abradle/biojava-spark.git</connection>
+                <developerConnection>scm:git:git@github.com:abradle/biojava-spark.git</developerConnection>
+                <url>https://github.com/abradle/biojava-spark</url>
+                <tag>HEAD</tag>
+        </scm>
+
 	<dependencies>
 
 		<dependency>
